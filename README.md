@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aniket Tayade ( @Niklaus8408)
 - 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning React.js, Node.js
+- 🌱 I’m currently learning React.js, Node.js, Express.js and MongoDB.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me- tayadeaniket01@gmail.com
 
